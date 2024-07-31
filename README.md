@@ -8,6 +8,8 @@ This is a wearable app based on [WearOS](https://wearos.google.com/). This proje
 ![MainMenu](images/img2.png)
 - Present Weather
 ![MainMenu](images/img1.png)
+- Crown control (scroll)
+- Haptic feedback
 - Still under development :3
 
 ## Contributing
