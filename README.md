@@ -1,7 +1,7 @@
 # Info BMKG for WearOS
 
 ## Overview
-This is a wearable app based on [WearOS](https://wearos.google.com/). This project is unfinished. I only update when i have a free time. This app used to be my undergraduate thesis topic, but i changed my mind hwhw.
+This is a wearable app based on [WearOS](https://wearos.google.com/). This project is unfinished. I only update when i have a free time. This app used to be my undergraduate thesis topic, but i changed my mind hwhw. This app function is to provide Indonesian citizens weather information in a wearable device.
 
 ## Features
 - Main Menu
